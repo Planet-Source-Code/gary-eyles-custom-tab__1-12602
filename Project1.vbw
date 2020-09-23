@@ -1,0 +1,14 @@
+Form1 = 23, 26, 610, 546, C, 60, 53, 588, 608, C
+ISubclass = 154, 154, 610, 602, C
+MSubclass = 40, 13, 667, 630, C
+GSubclass = 132, 132, 669, 617, C
+gTab = 40, 37, 707, 620, , 37, 67, 493, 515, C
+CLogFont = 22, 23, 664, 627, C
+mDeclares = 0, 0, 0, 0, C
+mCommonDialog = 0, 0, 0, 0, C
+mSaveIcon = 23, 70, 688, 339, C
+ppgControl = 0, 0, 0, 0, C, 198, 198, 654, 646, C
+ppgImages = 0, 0, 0, 0, C, 220, 220, 676, 668, C
+vbalImageList = 74, 66, 601, 374, C, 0, 0, 456, 448, C
+Form2 = 13, 85, 638, 499, C, 22, 22, 478, 470, C
+Module1 = 45, 21, 674, 613, C
